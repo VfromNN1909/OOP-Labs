@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\DNS\source\repos\Stack\Stack\Main.cpp(117,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Stack.vcxproj -> C:\Users\DNS\source\repos\Stack\Debug\Stack.exe
