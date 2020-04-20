@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\DNS\source\repos\TrueOopCpp\TrueOopCpp\main.cpp(128,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TrueOopCpp.vcxproj -> C:\Users\DNS\source\repos\TrueOopCpp\Debug\TrueOopCpp.exe
